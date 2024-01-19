@@ -1,6 +1,6 @@
 noStroke();
 
-let b_color_r = 80;
+let b_color_r = 180;
 let b_color_g = 205;
 let b_color_b = 255;
 background(b_color_r,b_color_g,b_color_b);
